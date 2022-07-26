@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 1092
+  controlID: 88
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 1093
+  controlID: 89
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,8 +191,8 @@ MonoBehaviour:
     y: 0
     width: 224
     height: 645
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -333,22 +333,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\yigit\Desktop\labyrinth
+  m_LastProjectPath: C:\Users\yigit\Documents\GitHub\labyrinth_game\labyrinth
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4a640000
-    m_LastClickedID: 25674
-    m_ExpandedIDs: 000000003c640000
+    m_SelectedIDs: 084d0000
+    m_LastClickedID: 19720
+    m_ExpandedIDs: 00000000084d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -376,7 +376,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003c640000
+    m_ExpandedIDs: 00000000084d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -749,9 +749,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -15.337482, y: -8.101131, z: 52.133553}
+    m_Target: {x: -16.08646, y: -8.0252, z: 64.46965}
     speed: 2
-    m_Value: {x: -15.337482, y: -8.101131, z: 52.133553}
+    m_Value: {x: -16.08646, y: -8.0252, z: 64.46965}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -800,18 +800,18 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.2901146, y: 0.65805084, z: -0.30603555, w: -0.62381834}
     speed: 2
-    m_Value: {x: -0.28965458, y: 0.65898436, z: -0.30646968, w: -0.62282914}
+    m_Value: {x: -0.2901146, y: 0.65805084, z: -0.30603555, w: -0.62381834}
   m_Size:
-    m_Target: 35.44918
+    m_Target: 41.50958
     speed: 2
-    m_Value: 33.92266
+    m_Value: 39.722084
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.0005
-    m_SpeedNormalized: 0.49999997
+    m_Speed: 1.06047
+    m_SpeedNormalized: 0.53
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -860,9 +860,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2eccffff
-      m_LastClickedID: -13266
-      m_ExpandedIDs: a0e2ffffbee2ffffc4e2ffffe2e3ffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 10f8ffff36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
